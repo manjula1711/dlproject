@@ -1,2 +1,5 @@
 tensorflow
 gunicorn
+pandas
+numpy
+Tokenizer
